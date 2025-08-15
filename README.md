@@ -26,7 +26,6 @@ In the final stages, more advanced vision-language models were explored:
 
 * **MDETR**: An end-to-end model for vision-and-language understanding. The implementation proved to be highly challenging, with numerous technical issues encountered during fine-tuning.
 * **Grounding DINO**: A cutting-edge model for open-vocabulary object detection and grounding. Despite its potential, significant challenges were faced during implementation and fine-tuning, preventing the model from being successfully used.
-
 ***
 
 ## 3. Dataset
@@ -36,6 +35,7 @@ A custom dataset was created to support this project's fine-tuning attempts. The
 * **COCO (Common Objects in Context)**: Provided the rich, dense images with multiple objects.
 * **RefCOCOg**: A dataset for referring expression comprehension, providing the natural language descriptions of objects and their corresponding bounding boxes.
 
+* **Uploaded Get_dataset.ipynb**
 ***
 
 ## 4. Conclusion & Future Work
